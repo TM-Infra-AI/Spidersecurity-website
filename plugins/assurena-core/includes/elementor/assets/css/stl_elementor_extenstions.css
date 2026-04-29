@@ -1,0 +1,139 @@
+/* Elementor styles */
+.elementor-panel .elementor-element .icon [class*="stl-"]{
+    display: block;
+    top: 10px;
+    left: 6px;
+    width: 60px;
+    height: 46px;
+    margin: 0 auto;
+    background-size: 60px 46px;
+}
+.elementor-panel .elementor-element .icon .stl-blog{
+    background-image: url(../img/stl_elementor_addon/icons/blog.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-pricing-table{
+    background-image: url(../img/stl_elementor_addon/icons/pricing_table.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-info-box{
+    background-image: url(../img/stl_elementor_addon/icons/info_box.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-carousel{
+    background-image: url(../img/stl_elementor_addon/icons/carousel.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-team{
+    background-image: url(../img/stl_elementor_addon/icons/team.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-portfolio{
+    background-image: url(../img/stl_elementor_addon/icons/portfolio_module.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-button{
+    background-image: url(../img/stl_elementor_addon/icons/button.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-progress-bar{
+    background-image: url(../img/stl_elementor_addon/icons/progress_bar.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-testimonials{
+    background-image: url(../img/stl_elementor_addon/icons/testimonials.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-clients{
+    background-image: url(../img/stl_elementor_addon/icons/clients.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-image-layers{
+    background-image: url(../img/stl_elementor_addon/icons/image_layers.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-video-popup{
+    background-image: url(../img/stl_elementor_addon/icons/video_popup.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-countdown{
+    background-image: url(../img/stl_elementor_addon/icons/countdown.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-time-line-vertical{
+    background-image: url(../img/stl_elementor_addon/icons/vertical_timeline.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-image-comparison{
+    background-image: url(../img/stl_elementor_addon/icons/image_comparison.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-toggle-accordion{
+    background-image: url(../img/stl_elementor_addon/icons/toggle.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-tabs{
+    background-image: url(../img/stl_elementor_addon/icons/tabs.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-services-2{
+    background-image: url(../img/stl_elementor_addon/icons/services_2.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-services-3{
+    background-image: url(../img/stl_elementor_addon/icons/services_3.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-flipbox{
+    background-image: url(../img/stl_elementor_addon/icons/flip_box.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-counter{
+    background-image: url(../img/stl_elementor_addon/icons/counters.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-accordion-services{
+    background-image: url(../img/stl_elementor_addon/icons/accordion_services.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-events{
+    background-image: url(../img/stl_elementor_addon/icons/events.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-working-hours{
+    background-image: url(../img/stl_elementor_addon/icons/working_hours.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-header-cart{
+    background-image: url(../img/stl_elementor_addon/icons/header-cart.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-date{
+    background-image: url(../img/stl_elementor_addon/icons/date.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-header-delimiter{
+    background-image: url(../img/stl_elementor_addon/icons/header-delimiter.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-header-list-info{
+    background-image: url(../img/stl_elementor_addon/icons/header-list-info.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-header-logo{
+    background-image: url(../img/stl_elementor_addon/icons/header-logo.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-header-menu{
+    background-image: url(../img/stl_elementor_addon/icons/header-menu.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-header-search{
+    background-image: url(../img/stl_elementor_addon/icons/header-search.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-header-side_panel{
+    background-image: url(../img/stl_elementor_addon/icons/header-side_panel.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-header-wpml{
+    background-image: url(../img/stl_elementor_addon/icons/header-wpml.png) !important;
+}
+.elementor-panel .elementor-element .icon .stl-social-icons{
+    background-image: url(../img/stl_elementor_addon/icons/social-icons.png) !important;
+}
+.display_none {
+    display: none !important;
+}
+.stl-radio-image label{
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    padding: 5px;
+    margin: 4px;
+    cursor: pointer;
+}
+.stl-radio-image label > * {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+.stl-radio-image label.selected:before {
+    content: "";
+    display: block;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 174, 240, 0.5);
+}

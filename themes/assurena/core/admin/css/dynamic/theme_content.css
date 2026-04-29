@@ -1,0 +1,363 @@
+/* ==================== ##General Styles ==================== */
+
+body {
+	font-family: $content_font_family;
+	font-size: $content_font_size;
+	line-height: $content_line_height;
+	font-weight: $content_font_weight;
+	color: $content_color;
+}
+
+/* ==================== ##End General Styles ==================== */
+
+/* ==================== ##Content Features ==================== */
+
+input:not([type=checkbox]):not([type=submit]),
+select, textarea,
+label,
+blockquote cite,
+#comments .commentlist .comment_info .meta-wrapper *,
+.author-info_name,
+.meta-wrapper,
+.blog-post_info-wrap > .meta-wrapper *,
+.assurena_module_time_line_vertical .time_line-title,
+.isotope-filter a .number_filter,
+.author-widget_text,
+.portfolio__custom-meta span,
+.blog-post.format-quote .blog-post_quote-author,
+.stl_module_team .team-department,
+body .comment-form-cookies-consent > label,
+.widget_product_categories .post_count, 
+.widget_meta .post_count, 
+.widget_archive .post_count,
+.stl-accordion .stl-accordion_panel .stl-accordion_content,
+.stl-testimonials .stl-testimonials_name,
+.elementor-widget-stl-pricing-table .pricing_header .pricing_desc,
+.elementor-widget-stl-time-line-vertical .time_line-content .time_line-text,
+.stl-portfolio-single_wrapper .stl-portfolio-item_cats,
+.stl-working-hours .working-item .working-item_day,
+.stl-working-hours .working-item .working-item_hours {
+	font-family: $content_font_family;
+}
+.elementor-widget-stl-time-line-vertical .time_line-content .time_line-text {
+	font-weight: $content_font_weight;
+}
+
+.stl-tabs .stl-tabs_content-wrap .stl-tabs_content {
+	font-family: $content_font_family;
+	font-weight: $content_font_weight;
+}
+
+::placeholder,
+select,
+body .footer .select__field:before,
+.widget_rss .rssSummary,
+.header_search.search_standard .header_search-field .search-field,
+.search-no-results .page_404_wrapper .search-form .search-field,
+.post_meta-categories span, .post_meta-categories span:after,
+.assurena_module_message_box .message_content .message_text,
+.vc_wp_custommenu .menu .menu-item.current-menu-item > a,
+.blog-post.format-quote .blog-post_quote-author-pos,
+.assurena_module_testimonials .testimonials_quote,
+.recent-posts-widget .meta-wrapper a:hover,
+.vc_row .vc_toggle .vc_toggle_icon,
+.isotope-filter a,
+.stl_module_team .team-department,
+.stl-pricing_plan .pricing_price_wrap .pricing_desc {
+	color: $content_color;
+}
+
+.single_meta .single_info-share_social-wpapper > span.share_title,
+.single_info-share_social-wpapper > span {
+	font-family: $content_font_family;		
+	color: $content_color;
+}
+
+.assurena_module_title .external_link .button-read-more {
+	line-height: $content_line_height;
+}
+
+/* ==================== ##End Content Features ==================== */
+
+/* ==================== ##Heading Features ==================== */
+
+h1,h2,h3,h4,h5,h6,
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.blog-post_cats,
+.blog-posts .blog-post_title,
+.column1 .item_title a,
+.assurena_twitter .twitt_title,
+.tagcloud-wrapper .title_tags,
+.strip_template .strip-item a span,
+.single_team_page .team-single_speaches-info .speech-info_desc span,
+.shortcode_tab_item_title,
+.index_number,
+.primary-nav.footer-menu .menu-item a {
+	font-family: $header_font_family;
+	font-weight: $header_font_weight;
+}
+
+.theme-header-font,
+#comments .comment-reply-link,
+input[type="submit"], button,
+legend,
+.widget,
+.widget .widget-title,
+.widget_rss ul li .rss-date,
+.widget_categories a,
+.widget_product_categories a,
+.widget_meta a,
+.widget_archive a,
+.banner_404,
+.page_404_wrapper .assurena_404__link,
+.blog-post_text-bg,
+.author-info_content .author-info_name,
+.button-read-more,
+.countdown-section .countdown-amount,
+.comments-title .number-comments,
+.stl-button, .elementor-button,
+.stl-pricing_plan .pricing_currency,
+.stl-pricing_plan .pricing_price .price_decimal,
+.stl-pricing_plan .pricing_plan_wrap .pricing_price_wrap,
+.assurena_module_progress_bar .progress_label,
+.assurena_module_double_headings,
+.assurena_module_infobox .infobox_icon_container .infobox_icon_number,
+.assurena_module_testimonials .testimonials_item:before,
+.assurena_module_testimonials .testimonials_status,
+.assurena_module_counter .counter_title,
+.assurena_module_videobox .title,
+.assurena_module_progress_bar .progress_value, 
+.assurena_module_progress_bar .progress_units,
+.assurena_module_counter .counter_value_wrapper, 
+.assurena_module_counter .counter_value_placeholder,
+.assurena_module_ico_progress .progress_value_completed,
+.assurena_module_ico_progress .progress_value_min, .assurena_module_ico_progress .progress_value_max,
+.assurena_module_ico_progress .progress_point,
+.mashsb-count .counts,
+.mashsb-box .mashsb-buttons a .text,
+.prev-link, .next-link,
+.vc_row .vc_tta.vc_general.vc_tta-style-accordion_bordered .vc_tta-panel-title>a span,
+ul.recent-posts-widget li > .recent-posts-content .post_title,
+.heading_subtitle,
+.info_prev-link_wrapper a, .info_next-link_wrapper a,
+.single_team_page .team-single_speaches-info .speech-info_day,
+.single_team_page .team-info_wrapper .team-info_item, .single_team_page .team-info_wrapper .team-info_item h5,
+.portfolio__custom-meta h5,
+.portfolio__item-meta .post_cats,
+.stl-portfolio-item_cats,
+.isotope-filter a,
+body .comment-respond .comment-reply-title,
+.page-header_title,
+.assurena_module_services_2 .services_link,
+.assurena_module_testimonials.type_inline_top .testimonials_meta_wrap:after,
+.assurena_module_testimonials .testimonials_position,
+.assurena_module_services_4 .services_subtitle,
+[class|=dropcap], .elementor-drop-cap,
+.stl-countdown .countdown-section .countdown-period,
+.stl-testimonials .stl-testimonials_quote,
+ul.wp-block-archives.wp-block-archives-list li a,
+ul.wp-block-categories.wp-block-categories-list li a,
+ul.wp-block-categories.wp-block-categories-list li .post_count,
+ul.wp-block-latest-posts li a,
+.elementor-counter,
+.stl-counter .stl-counter_value-wrap,
+.stl-pricing_plan .pricing_highlighter
+.load_more_item, .load_more_wrapper .load_more_item,
+.assurena-post-navigation .meta-wrapper span,
+ul.recent-posts-widget .meta-wrapper span,
+.elementor-widget .stl-infobox .stl-infobox_subtitle,
+.single_meta .meta-wrapper,
+#comments .commentlist .comment_author_says {
+	font-family: $header_font_family;
+}
+
+blockquote,
+.banner_404,
+.author-info_public,
+.stl-portfolio-single_item .tagcloud .tagcloud_desc,
+.stl_timetabs .timetabs_data .timetabs_item .item_time,
+.stl_timetabs .timetabs_data .timetabs_item .content-wrapper .item_title,
+.stl_timetabs .timetabs_headings .stl_tab,
+.stl-pricing_plan .pricing_content,
+.stl-portfolio-single_item .single_info-share_social-wpapper .share_title {
+	font-family: $header_font_family;
+	color: $header_font_color;
+}
+
+.stl-infobox_bg_title,
+.stl-background-text,
+.elementor-section.stl-add-background-text:before {
+	font-family: $header_font_family;
+	font-weight: $header_font_weight;
+}
+
+.theme-header-color,
+body .footer select option,
+button,
+h1,h2,h3,h4,h5,h6,
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.blog-style-hero .blog-post_title a,
+h3#reply-title a,
+.calendar_wrap tbody,
+.comment_author_says,
+.comment_author_says a,
+.search-field,
+.stl-pagination .page .current,
+.stl-pagination .page .prev, .stl-pagination .page .next,
+.stl-pagination .page-numbers:hover,
+.share_post-container .share_post,
+.tagcloud-wrapper .title_tags,
+.assurena_module_double_headings .heading_title,
+.assurena_module_testimonials .testimonials_item .testimonials_content_wrap .testimonials_name,
+.stl-pricing_plan .pricing_plan_wrap .pricing_content > ul > li > b,
+.assurena_module_social .soc_icon,
+.assurena_module_counter .counter_value_wrapper,
+.prev-link-info_wrapper, .next-link-info_wrapper,
+.item_title a,
+.assurena_module_counter .counter_value_wrapper,
+.stl_module_title.item_title .carousel_arrows a span:after,
+.stl_module_team.info_under_image .team-department,
+.stl-portfolio-item_wrapper .portfolio_link,
+.assurena_module_services_2 .services_link,
+ul.wp-block-archives.wp-block-archives-list li a,
+ul.wp-block-categories.wp-block-categories-list li a,
+ul.wp-block-latest-posts li a,
+.stl-pricing_plan .pricing_plan_wrap .pricing_price_wrap,
+.blog-style-hero .blog-post.format-standard .blog-post_title a,
+.blog-style-hero .blog-post.format-link .blog-post_title a,
+.blog-style-hero .blog-post.format-audio .blog-post_title a,
+.blog-style-hero .blog-post.format-quote .blog-post_title a,
+.stl-pagination .page-numbers,
+.stl-button.elementor-button,
+.stl-carousel .slick-arrow,
+.page_404_wrapper .search-form:after,
+.stl-portfolio-single_wrapper .portfolio__item-meta > span:after,
+.button-read-more,
+.stl-header-row-section_top a:hover,
+.header_search.search_standard .header_search-field .search-form:after {
+	color: $header_font_color;
+}
+
+/* ↓ widgets ↓ */
+.author-widget_social a,
+.widget ul li,
+.widget ul li a,
+ul.recent-posts-widget .post_title a,
+.widget .widget-title .widget-title_wrapper,
+.widget_search .search-form:after, 
+.widget_search .woocommerce-product-search:after, 
+.widget_product_search .search-form:after, 
+.widget_product_search .woocommerce-product-search:after,
+.widget_product_search .woocommerce-product-search:after,
+.widget .banner-widget_button,
+.share_social-wpapper .share_social-title{
+	color: $header_font_color;
+}
+
+.widget_search .search-form:hover:after, 
+.widget_search .woocommerce-product-search:hover:after, 
+.widget_product_search .search-form:hover:after, 
+.widget_product_search .woocommerce-product-search:hover:after,
+.assurena_banner-widget .banner-widget_link:hover ~ .banner-widget_button .button-read-more,
+/* ↑ widgets ↑ */
+.stl-theme-header .stl-button.elementor-button,
+.assurena_module_title .carousel_arrows a span,
+.page_404_wrapper .search-form:hover:after,
+.stl-pagination .page-numbers.current,
+.stl-accordion-services .stl-services_icon-wrap:before {
+	background: $header_font_color;
+}
+
+.assurena_module_infobox.infobox_alignment_left.title_divider .infobox_title:before,
+.assurena_module_infobox.infobox_alignment_right.title_divider .infobox_title:before {
+	background-color: $header_font_color;
+}
+
+.assurena_module_title .carousel_arrows a span:before,
+.stl-pagination .page-numbers:hover,
+.stl-pricing_plan .pricing_highlighter,
+.stl-carousel.pagination_circle_border .slick-dots li.slick-active button,
+.stl-carousel.pagination_square_border .slick-dots li.slick-active button {
+	border-color: $header_font_color;
+}
+
+/* ==================== ##End Heading Features ==================== */
+
+/* ==================== ##Additional Font ==================== */
+
+.stl-pricing_plan .pricing_header .pricing_title__shadow,
+.blog-post_media .bg-read-more,
+.blog-post.format-quote .blog-post_quote-text:before,
+.stl-infobox .stl-infobox_wrapper .stl-infobox_subtitle,
+.stl-striped-services .service-item_content .service-item_bg_text,
+.stl-services-8 .stl-services_bg_text {
+	font-family: $additional_font_family;
+	font-weight: $additional_font_weight;
+}
+
+/* ==================== ##End Additional Font ==================== */
+
+/* ==================== ##Additional Styles ==================== */
+
+#scroll_up {
+	color: $scroll_up_arrow_color;
+	background-color: $scroll_up_bg_color;
+}
+#scroll_up:not(:empty):hover {
+	color: $scroll_up_bg_color;
+	background-color: $scroll_up_arrow_color;
+}
+#scroll_up:not(:empty):hover {
+	box-shadow: 4px 5px 16px rgba(0,0,0, 0.2);
+}
+
+/* ↓ menu fonts ↓ */
+.primary-nav>div>ul,
+.primary-nav>ul,
+.sitepress_container > .wpml-ls li,
+.primary-nav ul li.mega-menu-links > ul > li {
+	font-family: $menu_font_family;
+	font-weight: $menu_font_weight;
+	line-height: $menu_font_line_height;
+	font-size: $menu_font_size;
+}
+
+/* ↓ sub menu styles ↓ */
+.primary-nav ul li ul,
+.wpml-ls,
+.sitepress_container > .wpml-ls ul ul li,
+.primary-nav ul li div.mega-menu-container {
+	font-family: $sub_menu_font_family;
+	font-weight: $sub_menu_font_weight;
+	line-height: $sub_menu_font_line_height;
+	font-size: $sub_menu_font_size;	
+}
+.stl-theme-header .header_search-field,
+.primary-nav ul li ul,
+.primary-nav ul li div.mega-menu-container,
+.stl-theme-header .woo_mini_cart,
+.wpml-ls-legacy-dropdown .wpml-ls-current-language .wpml-ls-sub-menu {
+	background-color: $sub_menu_bg;
+	color: $sub_menu_color;
+}
+.mobile_nav_wrapper,
+.stl-menu_outer,
+.stl-menu_outer .mobile-hamburger-close,
+.mobile_nav_wrapper .primary-nav ul li ul.sub-menu,
+.mobile_nav_wrapper .primary-nav ul li.mega-menu-links > ul.mega-menu > li > ul > li ul,
+.mobile_nav_wrapper .primary-nav ul li.mega-menu-links > ul.mega-menu > li > ul {
+	background-color: $mobile_sub_menu_bg;
+	color: $mobile_sub_menu_color;		
+}
+.mobile_nav_wrapper .stl-menu_overlay {
+	background-color: $mobile_sub_menu_overlay;
+}
+/* ↑ sub menu styles ↑ */
+
+#side-panel .side-panel_sidebar .widget .widget-title .widget-title_wrapper {
+	color: $side_panel_title;
+}
+
+/* ==================== ##End Additional Styles ==================== */

@@ -1,0 +1,4117 @@
+# Copyright (C) 2020 StylusThemes
+# This file is distributed under the same license as the PACKAGE package.
+msgid ""
+msgstr ""
+"Project-Id-Version: StylusThemes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:32
+msgid "Error! 404"
+msgstr ""
+
+#: 404.php:33
+msgid "Sorry, we could not find the page you are looking for."
+msgstr ""
+
+#: 404.php:39
+msgid "Back to Homepage"
+msgstr ""
+
+#: category.php:26
+msgid "Category:"
+msgstr ""
+
+#: comments.php:37
+msgctxt "comments title"
+msgid "Comment <span class=\"number-comments\">(01)</span>"
+msgstr ""
+
+#: comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "Comments <span class=\"number-comments\">(%1$s)</span>"
+msgid_plural "Comments <span class=\"number-comments\">(%1$s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:72
+msgid "Name *"
+msgstr ""
+
+#: comments.php:73
+msgid "Email *"
+msgstr ""
+
+#: comments.php:74
+msgid "Website"
+msgstr ""
+
+#: comments.php:76
+msgid "Your Comment"
+msgstr ""
+
+#: functions.php:146
+msgid "Dropcap"
+msgstr ""
+
+#: functions.php:149 functions.php:163
+msgid "Primary color"
+msgstr ""
+
+#: functions.php:153 functions.php:167
+msgid "Secondary color"
+msgstr ""
+
+#: functions.php:160
+msgid "Highlighter"
+msgstr ""
+
+#: functions.php:174
+msgid "Font Weight"
+msgstr ""
+
+#: functions.php:177 core/includes/metabox/metabox-config.php:112
+#: core/includes/metabox/metabox-config.php:213
+#: core/includes/metabox/metabox-config.php:225
+#: core/includes/metabox/metabox-config.php:237
+#: core/includes/metabox/metabox-config.php:249
+#: core/includes/metabox/metabox-config.php:273
+#: core/includes/metabox/metabox-config.php:322
+#: core/includes/metabox/metabox-config.php:424
+#: core/includes/metabox/metabox-config.php:489
+#: core/includes/metabox/metabox-config.php:667
+#: core/includes/metabox/metabox-config.php:868
+#: core/includes/metabox/metabox-config.php:974
+#: core/includes/metabox/metabox-config.php:1020
+#: core/includes/metabox/metabox-config.php:1068
+#: core/includes/metabox/metabox-config.php:1484
+#: core/includes/metabox/metabox-config.php:1658
+#: core/includes/metabox/metabox-config.php:1774
+#: core/includes/metabox/metabox-config.php:1933
+#: core/includes/redux/redux-config.php:3736
+#: core/includes/redux/redux-config.php:3911
+#: core/includes/redux/redux-config.php:4022
+#: core/includes/redux/redux-config.php:4052
+#: core/includes/redux/redux-config.php:4369
+#: core/includes/redux/redux-config.php:4515
+#: core/includes/redux/redux-config.php:4702
+#: core/includes/redux/redux-config.php:4774
+#: core/includes/redux/redux-config.php:5070
+#: core/includes/redux/redux-config.php:5470
+#: core/includes/redux/redux-config.php:5553
+#: core/includes/redux/redux-config.php:5715
+msgid "Default"
+msgstr ""
+
+#: functions.php:181
+msgid "Lightest (100)"
+msgstr ""
+
+#: functions.php:185
+msgid "Lighter (200)"
+msgstr ""
+
+#: functions.php:189
+msgid "Light (300)"
+msgstr ""
+
+#: functions.php:193
+msgid "Normal (400)"
+msgstr ""
+
+#: functions.php:197
+msgid "Medium (500)"
+msgstr ""
+
+#: functions.php:201
+msgid "Semi-Bold (600)"
+msgstr ""
+
+#: functions.php:205
+msgid "Bold (700)"
+msgstr ""
+
+#: functions.php:209
+msgid "Bolder (800)"
+msgstr ""
+
+#: functions.php:213
+msgid "Extra Bold (900)"
+msgstr ""
+
+#: functions.php:220
+msgid "List Style"
+msgstr ""
+
+#: functions.php:223
+msgid "Dot, primary color"
+msgstr ""
+
+#: functions.php:227
+msgid "Dot, secondary color"
+msgstr ""
+
+#: functions.php:231
+msgid "Check, primary color"
+msgstr ""
+
+#: functions.php:235
+msgid "Check, secondary color"
+msgstr ""
+
+#: functions.php:239
+msgid "Plus, primary color"
+msgstr ""
+
+#: functions.php:243
+msgid "Plus, secondary color"
+msgstr ""
+
+#: functions.php:247
+msgid "Hyphen, primary color"
+msgstr ""
+
+#: functions.php:251
+msgid "Hyphen, secondary color"
+msgstr ""
+
+#: functions.php:255
+msgid "No List Style"
+msgstr ""
+
+#: image.php:84
+msgid "Pages:"
+msgstr ""
+
+#: page.php:30 template-full-width.php:17
+msgid "Read more!"
+msgstr ""
+
+#: page.php:31 template-full-width.php:18 templates/post/post-hero.php:173
+#: templates/post/post-hero.php:238 templates/post/post-standard.php:143
+#: templates/post/single/post-1.php:56 templates/post/single/post-2.php:58
+#: templates/post/single/post-3.php:33
+msgid "Pages"
+msgstr ""
+
+#: search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:51
+msgid "Learn More"
+msgstr ""
+
+#: search.php:66
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:71
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: search.php:73
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:79
+msgid "Take Me Home"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search here.."
+msgstr ""
+
+#: searchform.php:15 core/includes/redux/redux-config.php:456
+#: core/includes/redux/redux-config.php:476
+#: core/includes/redux/redux-config.php:2801
+#: core/includes/redux/redux-config.php:2813
+#: core/includes/redux/redux-config.php:2832
+#: core/includes/redux/redux-config.php:2840
+#: templates/header/section-page_title.php:181
+msgid "Search"
+msgstr ""
+
+#: single.php:113 core/includes/metabox/metabox-config.php:687
+#: core/includes/redux/redux-config.php:4168
+#: core/includes/redux/redux-config.php:4175
+#: core/includes/redux/redux-config.php:4623
+#: core/includes/redux/redux-config.php:4630
+msgid "Related Posts"
+msgstr ""
+
+#: single.php:126 templates/post/post-hero.php:41
+#: templates/post/post-medium_img.php:42 templates/post/post-standard.php:31
+msgid "Read More"
+msgstr ""
+
+#: single.php:131 core/class/theme-helper.php:231
+msgid "Load More"
+msgstr ""
+
+#: core/class/dynamic-styles.php:121
+msgid "Like"
+msgstr ""
+
+#: core/class/dynamic-styles.php:122
+msgid "Unlike"
+msgstr ""
+
+#: core/class/single-post.php:769
+msgid "Leave a reply"
+msgstr ""
+
+#: core/class/single-post.php:772
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/class/single-post.php:830
+msgid "Total Views"
+msgstr ""
+
+#: core/class/single-post.php:831
+msgid "View"
+msgid_plural "Views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/class/single-post.php:878
+msgid "About"
+msgstr ""
+
+#: core/class/theme-cat-meta.php:62 core/class/theme-cat-meta.php:94
+msgid "Color"
+msgstr ""
+
+#: core/class/theme-cat-meta.php:98 core/class/theme-cat-meta.php:143
+#: core/class/walker-mega-menu.php:380
+#: core/includes/redux/redux-config.php:3465
+#: core/includes/redux/redux-config.php:3666
+#: core/includes/redux/redux-config.php:3932
+msgid "Background Image"
+msgstr ""
+
+#: core/class/theme-cat-meta.php:102 core/class/theme-cat-meta.php:111
+#: core/class/theme-cat-meta.php:129 core/class/theme-cat-meta.php:154
+#: core/class/theme-cat-meta.php:172 core/class/theme-cat-meta.php:196
+msgid "Add Image"
+msgstr ""
+
+#: core/class/theme-cat-meta.php:103 core/class/theme-cat-meta.php:112
+#: core/class/theme-cat-meta.php:130 core/class/theme-cat-meta.php:155
+#: core/class/theme-cat-meta.php:173 core/class/theme-cat-meta.php:197
+msgid "Remove Image"
+msgstr ""
+
+#: core/class/theme-cat-meta.php:107 core/class/theme-cat-meta.php:125
+#: core/class/theme-cat-meta.php:161 core/class/theme-cat-meta.php:185
+msgid "Icon Image"
+msgstr ""
+
+#: core/class/theme-helper.php:380
+msgid "Published in"
+msgstr ""
+
+#: core/class/theme-helper.php:399
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: core/class/theme-helper.php:416
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: core/class/theme-panel.php:61 core/class/theme-panel.php:62
+msgid "StylusThemes"
+msgstr ""
+
+#: core/class/theme-panel.php:71 core/class/theme-panel.php:72
+msgid "Welcome"
+msgstr ""
+
+#: core/class/theme-panel.php:80 core/class/theme-panel.php:81
+msgid "Theme Plugins"
+msgstr ""
+
+#: core/class/theme-panel.php:90 core/class/theme-panel.php:91
+msgid "Requirements"
+msgstr ""
+
+#: core/class/theme-panel.php:99 core/class/theme-panel.php:100
+msgid "Help Center"
+msgstr ""
+
+#: core/class/theme-panel.php:107 core/class/theme-panel.php:108
+#: core/includes/redux/redux-config.php:33
+#: core/includes/redux/redux-config.php:34
+msgid "Theme Options"
+msgstr ""
+
+#: core/class/theme-support.php:50
+msgid "Main menu"
+msgstr ""
+
+#: core/class/theme-support.php:75
+msgid "Add widget here to appear it in custom sidebar."
+msgstr ""
+
+#: core/class/theme-support.php:87
+msgid "Footer Column 1"
+msgstr ""
+
+#: core/class/theme-support.php:90
+msgid "Footer Column 2"
+msgstr ""
+
+#: core/class/theme-support.php:93
+msgid "Footer Column 3"
+msgstr ""
+
+#: core/class/theme-support.php:96
+msgid "Footer Column 4"
+msgstr ""
+
+#: core/class/theme-support.php:105
+msgid ""
+"This area will display in footer like a column. Add widget here to appear it "
+"in footer column."
+msgstr ""
+
+#: core/class/theme-support.php:115
+msgid "Shop Products"
+msgstr ""
+
+#: core/class/theme-support.php:118
+msgid "Shop Single"
+msgstr ""
+
+#: core/class/theme-support.php:121
+msgid "Shop Filter"
+msgstr ""
+
+#: core/class/theme-support.php:129
+msgid "This sidebar will display in WooCommerce Pages."
+msgstr ""
+
+#: core/class/theme-support.php:139
+#: core/includes/metabox/metabox-config.php:1475
+#: core/includes/metabox/metabox-config.php:1480
+#: core/includes/redux/redux-config.php:362
+#: core/includes/redux/redux-config.php:377
+#: core/includes/redux/redux-config.php:4864
+#: core/includes/redux/redux-config.php:4871
+msgid "Side Panel"
+msgstr ""
+
+#: core/class/walker-comment.php:44
+msgid "Pingback:"
+msgstr ""
+
+#: core/class/walker-comment.php:44
+msgid "(Edit)"
+msgstr ""
+
+#: core/class/walker-comment.php:63 core/class/walker-mega-menu.php:660
+msgid "Edit"
+msgstr ""
+
+#: core/class/walker-comment.php:68
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: core/class/walker-comment.php:72
+msgid "Reply"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:243
+msgid "All"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:321
+msgid "assurena Mega Menu Settings:"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:322
+msgid "(Only for Main Menu)"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:328
+msgid "stl Mega Menu Settings"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:335
+msgid "Enable The stl Mega Menu?"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:337
+#: core/includes/redux/redux-config.php:146
+#: core/includes/redux/redux-config.php:3302
+#: core/includes/redux/redux-config.php:3573
+#: core/includes/redux/redux-config.php:4873
+msgid "Disable"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:339
+msgid " Vertical Sub-Categories"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:340
+msgid "Horizontal Sub-Categories"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:342
+msgid "Mega Menu Columns"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:350
+msgid "Posts Count"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:359
+msgid "Ajax Loading?"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:367
+msgid "Number of Mega Menu Columns"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:383
+msgid "Upload"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:388
+msgid "Background Repeat"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:390
+msgid "No Repeat"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:391
+msgid "Repeat"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:392
+msgid "Repeat X"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:393
+msgid "Repeat Y"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:400
+msgid "Background Position X"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:402
+#: core/includes/metabox/metabox-config.php:295
+#: core/includes/metabox/metabox-config.php:1602
+#: core/includes/metabox/metabox-config.php:1631
+#: core/includes/redux/redux-config.php:2059
+#: core/includes/redux/redux-config.php:2103
+#: core/includes/redux/redux-config.php:2147
+#: core/includes/redux/redux-config.php:2191
+#: core/includes/redux/redux-config.php:2235
+#: core/includes/redux/redux-config.php:2279
+#: core/includes/redux/redux-config.php:2323
+#: core/includes/redux/redux-config.php:2367
+#: core/includes/redux/redux-config.php:2411
+#: core/includes/redux/redux-config.php:2455
+#: core/includes/redux/redux-config.php:2499
+#: core/includes/redux/redux-config.php:2781
+#: core/includes/redux/redux-config.php:4385
+#: core/includes/redux/redux-config.php:4396
+#: core/includes/redux/redux-config.php:4547
+#: core/includes/redux/redux-config.php:4963
+#: core/includes/redux/redux-config.php:4983
+#: core/includes/redux/redux-config.php:5569
+#: core/includes/redux/redux-config.php:5589
+msgid "Right"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:403 core/class/walker-mega-menu.php:414
+#: core/includes/metabox/metabox-config.php:294
+#: core/includes/metabox/metabox-config.php:1601
+#: core/includes/redux/redux-config.php:2058
+#: core/includes/redux/redux-config.php:2102
+#: core/includes/redux/redux-config.php:2146
+#: core/includes/redux/redux-config.php:2190
+#: core/includes/redux/redux-config.php:2234
+#: core/includes/redux/redux-config.php:2278
+#: core/includes/redux/redux-config.php:2322
+#: core/includes/redux/redux-config.php:2366
+#: core/includes/redux/redux-config.php:2410
+#: core/includes/redux/redux-config.php:2454
+#: core/includes/redux/redux-config.php:2498
+#: core/includes/redux/redux-config.php:4384
+#: core/includes/redux/redux-config.php:4395
+#: core/includes/redux/redux-config.php:4546
+#: core/includes/redux/redux-config.php:4962
+#: core/includes/redux/redux-config.php:5568
+#: core/includes/redux/redux-config.php:5588
+msgid "Center"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:404
+#: core/includes/metabox/metabox-config.php:293
+#: core/includes/metabox/metabox-config.php:1600
+#: core/includes/metabox/metabox-config.php:1630
+#: core/includes/redux/redux-config.php:2057
+#: core/includes/redux/redux-config.php:2101
+#: core/includes/redux/redux-config.php:2145
+#: core/includes/redux/redux-config.php:2189
+#: core/includes/redux/redux-config.php:2233
+#: core/includes/redux/redux-config.php:2277
+#: core/includes/redux/redux-config.php:2321
+#: core/includes/redux/redux-config.php:2365
+#: core/includes/redux/redux-config.php:2409
+#: core/includes/redux/redux-config.php:2453
+#: core/includes/redux/redux-config.php:2497
+#: core/includes/redux/redux-config.php:2780
+#: core/includes/redux/redux-config.php:4383
+#: core/includes/redux/redux-config.php:4394
+#: core/includes/redux/redux-config.php:4545
+#: core/includes/redux/redux-config.php:4961
+#: core/includes/redux/redux-config.php:4982
+#: core/includes/redux/redux-config.php:5567
+#: core/includes/redux/redux-config.php:5587
+msgid "Left"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:411
+msgid "Background Position Y"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:413
+#: core/includes/redux/redux-config.php:162
+#: core/includes/redux/redux-config.php:2068
+#: core/includes/redux/redux-config.php:2112
+#: core/includes/redux/redux-config.php:2156
+#: core/includes/redux/redux-config.php:2200
+#: core/includes/redux/redux-config.php:2244
+#: core/includes/redux/redux-config.php:2288
+#: core/includes/redux/redux-config.php:2332
+#: core/includes/redux/redux-config.php:2376
+#: core/includes/redux/redux-config.php:2420
+#: core/includes/redux/redux-config.php:2464
+#: core/includes/redux/redux-config.php:2508
+msgid "Top"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:415
+#: core/includes/redux/redux-config.php:2070
+#: core/includes/redux/redux-config.php:2114
+#: core/includes/redux/redux-config.php:2158
+#: core/includes/redux/redux-config.php:2202
+#: core/includes/redux/redux-config.php:2246
+#: core/includes/redux/redux-config.php:2290
+#: core/includes/redux/redux-config.php:2334
+#: core/includes/redux/redux-config.php:2378
+#: core/includes/redux/redux-config.php:2422
+#: core/includes/redux/redux-config.php:2466
+#: core/includes/redux/redux-config.php:2510
+msgid "Bottom"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:422
+msgid "Min Height"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:430
+#: core/includes/redux/redux-config.php:1743
+#: core/includes/redux/redux-config.php:1855
+#: core/includes/redux/redux-config.php:1963
+msgid "Max Width"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:438
+msgid "Padding Left"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:445
+msgid "Padding Right"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:454
+msgid "Hide Mega Menu Headings?"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:610
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:614
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:628
+msgid "sub item"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:643
+msgid "Move up"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:656
+msgid "Move down"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:660
+msgid "Edit menu item"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:669
+#: core/includes/metabox/metabox-config.php:196
+#: core/includes/metabox/metabox-config.php:640
+msgid "URL"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:676
+msgid "Navigation Label"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:682
+msgid "Title Attribute"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:689
+#: core/includes/redux/redux-config.php:1212
+#: core/includes/redux/redux-config.php:1411
+msgid "Open link in a new tab"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:694
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:700
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:706
+#: core/includes/metabox/metabox-config.php:68
+#: core/includes/metabox/metabox-config.php:185
+#: core/includes/metabox/metabox-config.php:192
+msgid "Description"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:708
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: core/class/walker-mega-menu.php:719
+msgid "Move"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:720
+msgid "Up one"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:721
+msgid "Down one"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:724
+msgid "To the top"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:736
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:749
+msgid "Remove"
+msgstr ""
+
+#: core/class/walker-mega-menu.php:750
+msgid "Cancel"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:70
+msgid "Theme Config"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:75
+msgid "Theme Name"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:79
+#: core/dashboard/tpl-view-status.php:300
+#: core/tgm/class-tgm-plugin-activation.php:2623
+msgid "Version"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:83
+msgid "Author URL"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:97
+msgid "Server Settings"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:102
+msgid "PHP Version"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:113
+msgid "- We recommend a minimum PHP version of "
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:128
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:133
+msgid ""
+" You cannot upload images, themes and plugins that have a size bigger than "
+"this value: "
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:140
+#: core/dashboard/tpl-view-status.php:167
+#: core/dashboard/tpl-view-status.php:200
+#: core/dashboard/tpl-view-status.php:232
+#: core/dashboard/tpl-view-status.php:266
+#: core/dashboard/tpl-view-status.php:320
+msgid " To see how you can change this please check this guide"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:149
+msgid "PHP Max Execution Time Limit"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:161
+msgid "- We recommend setting max execution time to at least "
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:183
+msgid "PHP Max Input Time"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:194
+msgid "- We recommend setting max input time to at least "
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:216
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:227
+#, php-format
+msgid ""
+". We recommend minimum value: %d. Max input vars limitation will truncate "
+"POST data such as menus."
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:247
+msgid "MySql Version"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:251
+msgid "Max upload size"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:261
+msgid ". We recommend minimum value: 128 MB."
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:287
+msgid "WordPress Settings"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:292
+msgid "Home Url"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:296
+msgid "Site Url"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:304
+msgid "Memory Limit"
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:315
+msgid " .We recommend setting memory to be at least 128MB."
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:345
+msgid "WP_DEBUG is enabled."
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:346
+msgid " How to disable WP_DEBUG mode."
+msgstr ""
+
+#: core/dashboard/tpl-view-status.php:349
+msgid "WP_DEBUG is disabled."
+msgstr ""
+
+#: core/dashboard/tpl-view-theme-helper.php:30
+msgid "Need Help? StylusThemes Help Center Here"
+msgstr ""
+
+#: core/dashboard/tpl-view-theme-helper.php:35
+msgid ""
+"Please read a <a target=\"_blank\" href=\"https://themeforest.net/page/"
+"item_support_policy\">Support Policy</a> before submitting a ticket and make "
+"sure that your question related to our product issues."
+msgstr ""
+
+#: core/dashboard/tpl-view-theme-helper.php:39
+msgid ""
+"If you did not find an answer to your question, feel free to contact us."
+msgstr ""
+
+#: core/dashboard/tpl-view-theme-helper.php:57
+msgid "Documentation"
+msgstr ""
+
+#: core/dashboard/tpl-view-theme-helper.php:64
+msgid ""
+"Before submitting a ticket, please read the documentation. Probably, your "
+"issue already described."
+msgstr ""
+
+#: core/dashboard/tpl-view-theme-helper.php:71
+msgid "Visit Documentation"
+msgstr ""
+
+#: core/dashboard/tpl-view-theme-helper.php:93
+msgid "Support forum"
+msgstr ""
+
+#: core/dashboard/tpl-view-theme-helper.php:100
+msgid ""
+"If you did not find an answer to your question, submit a ticket with well "
+"describe your issue."
+msgstr ""
+
+#: core/dashboard/tpl-view-theme-helper.php:107
+msgid "Create a ticket"
+msgstr ""
+
+#: core/dashboard/tpl-view-theme-helper.php:120
+msgid ""
+"Do You have some other questions? Need Customization? Pre-purchase "
+"questions? Ask it <a  target=\"_blank\"  href=\"mailto:stylusthemes@gmail.com"
+"\">there!</a>"
+msgstr ""
+
+#: core/dashboard/tpl-view-weclome.php:30
+msgid "Welcome to"
+msgstr ""
+
+#: core/dashboard/tpl-view-weclome.php:35
+msgid "Version - "
+msgstr ""
+
+#: core/dashboard/tpl-view-weclome.php:40
+#, php-format
+msgid ""
+"%s is already installed and ready to use! Let's build something impressive."
+msgstr ""
+
+#: core/dashboard/tpl-view-weclome.php:54
+#, php-format
+msgid ""
+"Just complete the steps below and you will be able to use all "
+"functionalities of %s theme by StylusThemes:"
+msgstr ""
+
+#: core/dashboard/tpl-view-weclome.php:60
+msgid "Step 1"
+msgstr ""
+
+#: core/dashboard/tpl-view-weclome.php:63
+#, php-format
+msgid ""
+"Check <a target=\"_blank\" href=\"%s\">requirements</a> to avoid errors with "
+"your WordPress."
+msgstr ""
+
+#: core/dashboard/tpl-view-weclome.php:69
+msgid "Step 2"
+msgstr ""
+
+#: core/dashboard/tpl-view-weclome.php:71
+msgid "Install Required and recommended plugins."
+msgstr ""
+
+#: core/dashboard/tpl-view-weclome.php:75
+msgid "Step 3"
+msgstr ""
+
+#: core/dashboard/tpl-view-weclome.php:77
+msgid "Import demo content"
+msgstr ""
+
+#: core/dashboard/tpl-view-weclome.php:80
+msgid "Important:"
+msgstr ""
+
+#: core/dashboard/tpl-view-weclome.php:82
+msgid "one license  only for one website"
+msgstr ""
+
+#: core/includes/default-options.php:28
+msgctxt "Fira Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: core/includes/default-options.php:34
+msgctxt "Nunito font: on or off"
+msgid "off"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:46
+msgid "Team Options"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:51
+msgid "Member Department"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:57
+msgid "Member Info"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:64
+#: core/includes/metabox/metabox-config.php:188
+#: woocommerce/woocommerce-init.php:257
+msgid "Name"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:72
+#: core/includes/redux/redux-config.php:1206
+#: core/includes/redux/redux-config.php:1405
+msgid "Link"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:78
+msgid "Social Icons"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:84
+msgid "Select an icon"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:89
+msgid "Info Background Image"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:103
+msgid "Portfolio Options"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:108
+#: core/includes/metabox/metabox-config.php:485
+#: core/includes/redux/redux-config.php:4050
+msgid "Featured Image"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:113
+#: core/includes/metabox/metabox-config.php:274
+#: core/includes/metabox/metabox-config.php:425
+#: core/includes/metabox/metabox-config.php:490
+#: core/includes/metabox/metabox-config.php:668
+#: core/includes/metabox/metabox-config.php:869
+#: core/includes/metabox/metabox-config.php:975
+#: core/includes/metabox/metabox-config.php:1021
+#: core/includes/metabox/metabox-config.php:1485
+#: core/includes/redux/redux-config.php:3910
+#: core/includes/redux/redux-config.php:4368
+#: core/includes/redux/redux-config.php:4701
+#: core/includes/redux/redux-config.php:4773
+#: core/includes/redux/redux-config.php:5552
+msgid "Custom"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:119
+#: core/includes/metabox/metabox-config.php:481
+#: core/includes/metabox/metabox-config.php:496
+msgid "Featured Image Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:123
+#: core/includes/metabox/metabox-config.php:324
+#: core/includes/metabox/metabox-config.php:500
+#: core/includes/metabox/metabox-config.php:669
+#: core/includes/metabox/metabox-config.php:1070
+#: core/includes/metabox/metabox-config.php:1660
+#: core/includes/metabox/metabox-config.php:1776
+#: core/includes/metabox/metabox-config.php:1935
+#: core/includes/redux/redux-config.php:4053
+msgid "Off"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:124
+#: core/includes/metabox/metabox-config.php:501
+#: core/includes/redux/redux-config.php:4054
+msgid "Replace"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:135
+#: core/includes/metabox/metabox-config.php:512
+msgid "Featured Image Replace"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:148
+msgid "Show Title on Single"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:154
+msgid "Add Custom Link for Portfolio Grid"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:158
+msgid "Custom URL for Portfolio Grid"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:170
+msgid "Open Custom URL in New Window"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:180
+msgid "Info"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:202
+msgid "Info Description"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:206
+msgid "Info description is shown in one row with a main info"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:209
+#: core/includes/metabox/metabox-config.php:362
+#: core/includes/metabox/metabox-config.php:695
+#: core/includes/redux/redux-config.php:4337
+msgid "Categories"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:214
+#: core/includes/metabox/metabox-config.php:226
+#: core/includes/metabox/metabox-config.php:238
+#: core/includes/metabox/metabox-config.php:250
+#: core/includes/redux/redux-config.php:145
+#: core/includes/redux/redux-config.php:2984
+#: core/includes/redux/redux-config.php:2999
+#: core/includes/redux/redux-config.php:3074
+#: core/includes/redux/redux-config.php:3301
+#: core/includes/redux/redux-config.php:3572
+#: core/includes/redux/redux-config.php:3777
+#: core/includes/redux/redux-config.php:3925
+#: core/includes/redux/redux-config.php:4077
+#: core/includes/redux/redux-config.php:4085
+#: core/includes/redux/redux-config.php:4093
+#: core/includes/redux/redux-config.php:4305
+#: core/includes/redux/redux-config.php:4322
+#: core/includes/redux/redux-config.php:4330
+#: core/includes/redux/redux-config.php:4338
+#: core/includes/redux/redux-config.php:4410
+#: core/includes/redux/redux-config.php:4555
+#: core/includes/redux/redux-config.php:4563
+#: core/includes/redux/redux-config.php:4579
+#: core/includes/redux/redux-config.php:4588
+#: core/includes/redux/redux-config.php:4597
+#: core/includes/redux/redux-config.php:4606
+#: core/includes/redux/redux-config.php:4631
+#: core/includes/redux/redux-config.php:4759
+#: core/includes/redux/redux-config.php:4789
+#: core/includes/redux/redux-config.php:4844
+#: core/includes/redux/redux-config.php:4852
+#: core/includes/redux/redux-config.php:4872
+msgid "Use"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:215
+#: core/includes/metabox/metabox-config.php:227
+#: core/includes/metabox/metabox-config.php:239
+#: core/includes/metabox/metabox-config.php:251
+#: core/includes/redux/redux-config.php:2985
+#: core/includes/redux/redux-config.php:3000
+#: core/includes/redux/redux-config.php:3075
+#: core/includes/redux/redux-config.php:3778
+#: core/includes/redux/redux-config.php:3926
+#: core/includes/redux/redux-config.php:4078
+#: core/includes/redux/redux-config.php:4086
+#: core/includes/redux/redux-config.php:4094
+#: core/includes/redux/redux-config.php:4306
+#: core/includes/redux/redux-config.php:4323
+#: core/includes/redux/redux-config.php:4331
+#: core/includes/redux/redux-config.php:4339
+#: core/includes/redux/redux-config.php:4411
+#: core/includes/redux/redux-config.php:4556
+#: core/includes/redux/redux-config.php:4564
+#: core/includes/redux/redux-config.php:4580
+#: core/includes/redux/redux-config.php:4589
+#: core/includes/redux/redux-config.php:4598
+#: core/includes/redux/redux-config.php:4607
+#: core/includes/redux/redux-config.php:4632
+#: core/includes/redux/redux-config.php:4760
+#: core/includes/redux/redux-config.php:4790
+#: core/includes/redux/redux-config.php:4845
+#: core/includes/redux/redux-config.php:4853
+msgid "Hide"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:221
+msgid "Date"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:233
+#: core/includes/redux/redux-config.php:4554
+msgid "Tags"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:245
+msgid "Share Links"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:264
+msgid "Portfolio Post Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:269
+#: core/includes/metabox/metabox-config.php:420
+msgid "Post Layout"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:280
+#: core/includes/metabox/metabox-config.php:416
+msgid "Post Layout Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:289
+msgid "Alignment"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:313
+#: core/includes/metabox/metabox-config.php:354
+msgid "Related Portfolio"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:319
+msgid "Portfolio Related"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:323
+#: core/includes/metabox/metabox-config.php:1069
+#: core/includes/metabox/metabox-config.php:1659
+#: core/includes/metabox/metabox-config.php:1775
+#: core/includes/metabox/metabox-config.php:1934
+msgid "On"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:331
+msgid "Portfolio Related Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:341
+#: core/includes/redux/redux-config.php:4645
+msgid "Display items carousel for this portfolio post"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:351
+#: core/includes/metabox/metabox-config.php:684
+#: core/includes/redux/redux-config.php:4174
+#: core/includes/redux/redux-config.php:4321
+#: core/includes/redux/redux-config.php:4638
+msgid "Title"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:374
+#: core/includes/metabox/metabox-config.php:707
+#: core/includes/redux/redux-config.php:3356
+#: core/includes/redux/redux-config.php:4190
+msgid "Columns"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:378
+#: core/includes/metabox/metabox-config.php:712
+msgid "2"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:379
+#: core/includes/metabox/metabox-config.php:713
+msgid "3"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:380
+#: core/includes/metabox/metabox-config.php:714
+msgid "4"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:391
+#: core/includes/metabox/metabox-config.php:725
+#: core/includes/redux/redux-config.php:4203
+#: core/includes/redux/redux-config.php:4664
+msgid "Number of Related Items"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:411
+msgid "Post Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:431
+msgid "Post Layout Type"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:435
+#: core/includes/redux/redux-config.php:3894
+msgid "Title First"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:436
+#: core/includes/redux/redux-config.php:3895
+msgid "Image First"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:437
+#: core/includes/redux/redux-config.php:3896
+msgid "Overlay Image"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:448
+msgid "Padding Top"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:470
+msgid "Apply Animation"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:530
+msgid "Post Format Layout"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:536
+msgid "Standard Post( Enabled only Featured Image for this post format)"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:547
+msgid "Gallery Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:551
+msgid "Add Images"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:558
+msgid "Video Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:562
+msgid "Video Style"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:566
+msgid "Background Video"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:567
+msgid "Popup"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:573
+msgid "Start Video"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:584
+msgid "End Video"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:594
+#: core/includes/metabox/metabox-config.php:630
+msgid "oEmbed URL"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:600
+msgid "Quote Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:604
+msgid "Quote Text"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:609
+msgid "Author Name"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:614
+msgid "Author Position"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:619
+msgid "Author Avatar"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:626
+msgid "Audio Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:636
+msgid "Link Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:645
+#: core/includes/redux/redux-config.php:153
+msgid "Text"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:657
+msgid "Related Blog Post"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:663
+msgid "Related Options"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:675
+msgid "Related Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:711
+msgid "1"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:739
+msgid "Display items carousel for this blog post"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:757
+msgid "Page Layout"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:762
+#: core/includes/redux/redux-config.php:5022
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:774
+#: core/includes/redux/redux-config.php:5417
+msgid "Sidebar Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:784
+#: core/includes/redux/redux-config.php:5042
+msgid "Page Sidebar"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:798
+#: core/includes/redux/redux-config.php:5050
+msgid "Page Sidebar Width"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:816
+#: core/includes/redux/redux-config.php:5061
+#: core/includes/redux/redux-config.php:5461
+msgid "Sticky Sidebar On?"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:826
+#: core/includes/redux/redux-config.php:3734
+#: core/includes/redux/redux-config.php:4020
+#: core/includes/redux/redux-config.php:4513
+#: core/includes/redux/redux-config.php:5068
+#: core/includes/redux/redux-config.php:5468
+msgid "Sidebar Side Gap"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:859
+#: core/includes/metabox/metabox-config.php:864
+msgid "Page Colors"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:876
+msgid "Colors Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:885
+msgid "General Theme Color"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:898
+#: core/includes/redux/redux-config.php:5120
+msgid "Body Background Color"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:911
+msgid "Scroll Up Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:920
+msgid "Button Background Color"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:933
+msgid "Button Arrow Color"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:953
+#: core/includes/redux/redux-config.php:223
+msgid "Header"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:958
+#: core/includes/redux/redux-config.php:2532
+msgid "Header Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:962
+msgid "default"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:963
+msgid "custom"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:964
+msgid "hide"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:970
+#: core/includes/redux/redux-config.php:420
+msgid "Header Template"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:987
+#: core/includes/metabox/metabox-config.php:1033
+msgid "Template"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1006
+msgid "Sticky Header"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1016
+msgid "Sticky Header Template"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1059
+#: core/includes/metabox/metabox-config.php:1065
+#: core/includes/metabox/metabox-config.php:1239
+#: core/includes/redux/redux-config.php:2968
+#: core/includes/redux/redux-config.php:3657
+#: core/includes/redux/redux-config.php:3903
+msgid "Page Title"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1077
+msgid "Page Title Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1087
+msgid "Use Background?"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1098
+#: core/includes/metabox/metabox-config.php:1873
+#: core/includes/redux/redux-config.php:4948
+msgid "Background"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1114
+#: core/includes/metabox/metabox-config.php:1375
+#: core/includes/redux/redux-config.php:3026
+#: core/includes/redux/redux-config.php:3205
+msgid "Height"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1128
+#: core/includes/redux/redux-config.php:3062
+#: core/includes/redux/redux-config.php:4381
+#: core/includes/redux/redux-config.php:5565
+msgid "Title Alignment"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1132
+#: core/includes/metabox/metabox-config.php:1265
+msgid "left"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1133
+#: core/includes/metabox/metabox-config.php:1266
+msgid "center"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1134
+#: core/includes/metabox/metabox-config.php:1267
+msgid "right"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1145
+#: core/includes/redux/redux-config.php:3035
+#: core/includes/redux/redux-config.php:3220
+#: core/includes/redux/redux-config.php:4434
+#: core/includes/redux/redux-config.php:4813
+#: core/includes/redux/redux-config.php:5623
+msgid "Paddings Top/Bottom"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1166
+#: core/includes/redux/redux-config.php:3050
+#: core/includes/redux/redux-config.php:4445
+#: core/includes/redux/redux-config.php:4825
+#: core/includes/redux/redux-config.php:5634
+msgid "Margin Bottom"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1185
+msgid "Border Top Switch"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1194
+#: core/includes/redux/redux-config.php:5652
+msgid "Border Top Color"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1207
+msgid "Parallax Switch"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1216
+msgid "Prallax Speed"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1230
+msgid "Custom Page Title"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1251
+#: core/includes/metabox/metabox-config.php:1434
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1261
+#: core/includes/redux/redux-config.php:3090
+#: core/includes/redux/redux-config.php:4392
+msgid "Breadcrumbs Alignment"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1279
+#: core/includes/redux/redux-config.php:3081
+#: core/includes/redux/redux-config.php:4403
+msgid "Breadcrumbs Full Width"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1291
+msgid "Page Title Typography"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1300
+#: core/includes/metabox/metabox-config.php:1411
+#: core/includes/redux/redux-config.php:3135
+#: core/includes/redux/redux-config.php:3230
+msgid "Page Title Font"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1321
+#: core/includes/metabox/metabox-config.php:1445
+#: core/includes/redux/redux-config.php:3155
+#: core/includes/redux/redux-config.php:3258
+msgid "Page Title Breadcrumbs Font"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1342
+msgid "Responsive Layout"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1352
+#: core/includes/redux/redux-config.php:3186
+msgid "Responsive Layout On/Off"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1361
+#: core/includes/redux/redux-config.php:3192
+msgid "Screen breakpoint"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1389
+#: core/includes/redux/redux-config.php:3953
+msgid "Padding Top/Bottom"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1492
+#: core/includes/redux/redux-config.php:4879
+msgid "Side Panel Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1501
+#: core/includes/metabox/metabox-config.php:1815
+#: core/includes/redux/redux-config.php:3333
+#: core/includes/redux/redux-config.php:4886
+msgid "Content Type"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1505
+#: core/includes/metabox/metabox-config.php:1819
+msgid "Widgets"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1506
+#: core/includes/metabox/metabox-config.php:1820
+msgid "Page"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1517
+#: core/includes/metabox/metabox-config.php:1831
+msgid "Select a page"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1535
+#: core/includes/metabox/metabox-config.php:1849
+#: core/includes/metabox/metabox-config.php:1991
+#: core/includes/redux/redux-config.php:3427
+#: core/includes/redux/redux-config.php:3616
+#: core/includes/redux/redux-config.php:4909
+msgid "Paddings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1559
+#: core/includes/redux/redux-config.php:4924
+msgid "Title Color"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1571
+#: core/includes/metabox/metabox-config.php:1963
+#: core/includes/redux/redux-config.php:1247
+#: core/includes/redux/redux-config.php:1446
+#: core/includes/redux/redux-config.php:3600
+#: core/includes/redux/redux-config.php:4936
+msgid "Text Color"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1583
+#: core/includes/metabox/metabox-config.php:1977
+#: core/includes/redux/redux-config.php:1271
+#: core/includes/redux/redux-config.php:1470
+#: core/includes/redux/redux-config.php:3495
+#: core/includes/redux/redux-config.php:3608
+msgid "Background Color"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1596
+#: core/includes/redux/redux-config.php:4959
+msgid "Text Align"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1613
+#: core/includes/redux/redux-config.php:4970
+msgid "Width"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1626
+#: core/includes/redux/redux-config.php:4980
+msgid "Position"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1649
+#: core/includes/metabox/metabox-config.php:1654
+msgid "Social Shares"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1667
+msgid "Choose your share style."
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1671
+#: core/includes/redux/redux-config.php:125
+msgid "Standard"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1672
+msgid "Hovered"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1684
+msgid "Fixed Position On/Off"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1693
+msgid "Offset Top(in percentage)"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1704
+msgid ""
+"Measurement units defined as \"percents\" while position fixed is enabled, "
+"and as \"pixels\" while position is off."
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1708
+msgid "Facebook Share On/Off"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1718
+msgid "Twitter Share On/Off"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1728
+msgid "Linkedin Share On/Off"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1738
+msgid "Pinterest Share On/Off"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1748
+msgid "Tumblr Share On/Off"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1765
+#: core/includes/metabox/metabox-config.php:1770
+#: core/includes/redux/redux-config.php:3285
+#: core/includes/redux/redux-config.php:3300
+msgid "Footer"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1782
+#: core/includes/redux/redux-config.php:3308
+msgid "Footer Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1792
+#: core/includes/redux/redux-config.php:3315
+msgid "Add Wave"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1801
+#: core/includes/redux/redux-config.php:3324
+msgid "Set Wave Height"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1891
+#: core/includes/redux/redux-config.php:3528
+msgid "Add Border Top"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1901
+#: core/includes/redux/redux-config.php:1295
+#: core/includes/redux/redux-config.php:1494
+msgid "Border Color"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1924
+#: core/includes/metabox/metabox-config.php:1929
+#: core/includes/redux/redux-config.php:3556
+#: core/includes/redux/redux-config.php:3571
+msgid "Copyright"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1941
+#: core/includes/redux/redux-config.php:3579
+msgid "Copyright Settings"
+msgstr ""
+
+#: core/includes/metabox/metabox-config.php:1950
+#: core/includes/redux/redux-config.php:3586
+msgid "Editor"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:70
+msgid "General"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:77
+msgid "Use minify css/js files"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:78
+msgid "Recommended for site load speed."
+msgstr ""
+
+#: core/includes/redux/redux-config.php:83
+msgid "Preloader Settings"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:89
+msgid "Preloader On/Off"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:95
+msgid "Preloader Background"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:96
+msgid "Set Preloader Background"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:104
+msgid "Preloader Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:117
+msgid "Search Settings"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:123
+msgid "Choose search style"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:126
+msgid "Full Page Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:138
+msgid "Scroll Up Button Settings"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:144
+#: core/includes/redux/redux-config.php:357
+#: core/includes/redux/redux-config.php:358
+msgid "Button"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:152
+#: core/includes/redux/redux-config.php:2667
+#: core/includes/redux/redux-config.php:2991
+#: core/includes/redux/redux-config.php:3758
+#: core/includes/redux/redux-config.php:4044
+#: core/includes/redux/redux-config.php:4286
+#: core/includes/redux/redux-config.php:4537
+msgid "Appearance"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:154
+msgid "Icon"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:161
+#: core/includes/redux/redux-config.php:1199
+#: core/includes/redux/redux-config.php:1398
+msgid "Button Text"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:168
+msgid "Button Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:176
+msgid "Button Background"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:193
+#: core/includes/redux/redux-config.php:200
+#: core/includes/redux/redux-config.php:209
+msgid "Custom JS"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:201
+msgid "Paste your JS code here."
+msgstr ""
+
+#: core/includes/redux/redux-config.php:210
+msgid "Code to be added inside HEAD tag"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:231
+#: core/includes/redux/redux-config.php:450
+#: core/includes/redux/redux-config.php:470
+#: core/includes/redux/redux-config.php:2798
+#: core/includes/redux/redux-config.php:2810
+#: core/includes/redux/redux-config.php:2830
+#: core/includes/redux/redux-config.php:2838
+msgid "Logo"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:238
+msgid "Header Logo"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:243
+msgid "Enable Logo Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:251
+msgid "Set Logo Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:260
+msgid "Sticky Logo"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:265
+msgid "Enable Sticky Logo Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:273
+msgid "Set Sticky Logo Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:284
+msgid "Mobile Logo"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:289
+msgid "Enable Mobile Logo Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:297
+msgid "Set Mobile Logo Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:308
+msgid "Mobile Menu Logo"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:313
+msgid "Enable Mobile Menu Logo Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:321
+msgid "Set Mobile Menu Logo Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:335
+#: core/includes/redux/redux-config.php:365
+#: core/includes/redux/redux-config.php:383
+msgid "HTML 1"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:336
+#: core/includes/redux/redux-config.php:366
+#: core/includes/redux/redux-config.php:384
+msgid "HTML 2"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:337
+#: core/includes/redux/redux-config.php:367
+#: core/includes/redux/redux-config.php:385
+msgid "HTML 3"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:338
+#: core/includes/redux/redux-config.php:368
+#: core/includes/redux/redux-config.php:386
+msgid "HTML 4"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:339
+#: core/includes/redux/redux-config.php:369
+#: core/includes/redux/redux-config.php:387
+msgid "HTML 5"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:340
+#: core/includes/redux/redux-config.php:370
+#: core/includes/redux/redux-config.php:388
+msgid "HTML 6"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:341
+msgid "HTML 7"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:342
+msgid "HTML 8"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:343
+#: core/includes/redux/redux-config.php:344
+#: core/includes/redux/redux-config.php:345
+#: core/includes/redux/redux-config.php:346
+#: core/includes/redux/redux-config.php:347
+#: core/includes/redux/redux-config.php:348
+msgid "|"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:349
+#: core/includes/redux/redux-config.php:371
+#: core/includes/redux/redux-config.php:390
+#: core/includes/redux/redux-config.php:449
+#: core/includes/redux/redux-config.php:469
+msgid "Spacer 1"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:350
+#: core/includes/redux/redux-config.php:372
+#: core/includes/redux/redux-config.php:391
+#: core/includes/redux/redux-config.php:457
+#: core/includes/redux/redux-config.php:477
+msgid "Spacer 2"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:351
+#: core/includes/redux/redux-config.php:373
+#: core/includes/redux/redux-config.php:392
+msgid "Spacer 3"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:352
+#: core/includes/redux/redux-config.php:374
+#: core/includes/redux/redux-config.php:393
+msgid "Spacer 4"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:353
+#: core/includes/redux/redux-config.php:375
+#: core/includes/redux/redux-config.php:394
+msgid "Spacer 5"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:354
+#: core/includes/redux/redux-config.php:376
+#: core/includes/redux/redux-config.php:395
+msgid "Spacer 6"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:355
+msgid "Spacer 7"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:356
+msgid "Spacer 8"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:359
+#: core/includes/redux/redux-config.php:378
+#: core/includes/redux/redux-config.php:389
+msgid "WPML"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:360
+#: core/includes/redux/redux-config.php:379
+#: core/includes/redux/redux-config.php:5772
+msgid "Cart"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:361
+#: core/includes/redux/redux-config.php:380
+#: templates/header/section-header.php:1356
+msgid "Login"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:402
+#: core/includes/redux/redux-config.php:440
+msgid "Header Builder"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:409
+msgid "Layout Building Tool"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:411
+msgid "Default Builder"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:412
+msgid "Custom Builder ( Recommended )"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:415
+msgid "Custom Builder allows use Elementor environment for template building."
+msgstr ""
+
+#: core/includes/redux/redux-config.php:431
+#: core/includes/redux/redux-config.php:2658
+msgid ""
+"Selected Template will be used for all pages by default. You can edit/create "
+"Header Template in the"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:433
+#: core/includes/redux/redux-config.php:2660
+msgid "Header Templates"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:434
+#: core/includes/redux/redux-config.php:2661
+msgid "dashboard tab."
+msgstr ""
+
+#: core/includes/redux/redux-config.php:453
+#: core/includes/redux/redux-config.php:473
+#: core/includes/redux/redux-config.php:2795
+#: core/includes/redux/redux-config.php:2807
+#: core/includes/redux/redux-config.php:2831
+#: core/includes/redux/redux-config.php:2839
+#: core/includes/redux/redux-config.php:5279
+msgid "Menu"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:490
+msgid "Header Spacer 1 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:501
+msgid "Header Spacer 2 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:512
+msgid "Header Spacer 3 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:523
+msgid "Header Spacer 4 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:534
+msgid "Header Spacer 5 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:545
+msgid "Header Spacer 6 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:556
+msgid "Header Spacer 7 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:567
+msgid "Header Spacer 8 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:576
+msgid "Customize Search"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:583
+#: core/includes/redux/redux-config.php:645
+#: core/includes/redux/redux-config.php:1661
+#: core/includes/redux/redux-config.php:1692
+msgid "Icon Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:595
+#: core/includes/redux/redux-config.php:657
+msgid "Hover Icon Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:607
+msgid "Customize Sticky Search"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:614
+#: core/includes/redux/redux-config.php:676
+msgid "Sticky Icon Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:626
+#: core/includes/redux/redux-config.php:688
+msgid "Sticky Hover Icon Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:638
+msgid "Customize cart"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:669
+msgid "Customize Sticky cart"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:702
+#: core/includes/redux/redux-config.php:773
+#: core/includes/redux/redux-config.php:786
+#: core/includes/redux/redux-config.php:857
+#: core/includes/redux/redux-config.php:870
+#: core/includes/redux/redux-config.php:939
+#: core/includes/redux/redux-config.php:952
+#: core/includes/redux/redux-config.php:1023
+#: core/includes/redux/redux-config.php:1036
+#: core/includes/redux/redux-config.php:1107
+#: core/includes/redux/redux-config.php:1120
+#: core/includes/redux/redux-config.php:1190
+msgid "Delimiter Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:713
+#: core/includes/redux/redux-config.php:797
+#: core/includes/redux/redux-config.php:881
+#: core/includes/redux/redux-config.php:963
+#: core/includes/redux/redux-config.php:1047
+#: core/includes/redux/redux-config.php:1131
+msgid "Delimiter Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:722
+#: core/includes/redux/redux-config.php:757
+#: core/includes/redux/redux-config.php:806
+#: core/includes/redux/redux-config.php:841
+#: core/includes/redux/redux-config.php:890
+#: core/includes/redux/redux-config.php:925
+#: core/includes/redux/redux-config.php:972
+#: core/includes/redux/redux-config.php:1007
+#: core/includes/redux/redux-config.php:1056
+#: core/includes/redux/redux-config.php:1091
+#: core/includes/redux/redux-config.php:1140
+#: core/includes/redux/redux-config.php:1176
+msgid "Delimiter Background"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:740
+#: core/includes/redux/redux-config.php:824
+#: core/includes/redux/redux-config.php:908
+#: core/includes/redux/redux-config.php:990
+#: core/includes/redux/redux-config.php:1074
+#: core/includes/redux/redux-config.php:1159
+msgid "Delimiter Spacing"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:750
+#: core/includes/redux/redux-config.php:834
+#: core/includes/redux/redux-config.php:918
+#: core/includes/redux/redux-config.php:1000
+#: core/includes/redux/redux-config.php:1084
+#: core/includes/redux/redux-config.php:1169
+msgid "Customize Sticky Delimiter"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1200
+#: core/includes/redux/redux-config.php:1399
+msgid "Get Ticket"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1219
+#: core/includes/redux/redux-config.php:1418
+msgid "Button Size"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1221
+#: core/includes/redux/redux-config.php:1420
+msgid "Small"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1222
+#: core/includes/redux/redux-config.php:1421
+msgid "Medium"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1223
+#: core/includes/redux/redux-config.php:1422
+msgid "Large"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1224
+#: core/includes/redux/redux-config.php:1423
+msgid "Extra Large"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1232
+#: core/includes/redux/redux-config.php:1431
+msgid "Button Border Radius"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1234
+#: core/includes/redux/redux-config.php:1433
+msgid "Value in pixels."
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1240
+#: core/includes/redux/redux-config.php:1439
+msgid "Customize Button"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1259
+#: core/includes/redux/redux-config.php:1458
+msgid "Hover Text Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1283
+#: core/includes/redux/redux-config.php:1482
+msgid "Hover Background Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1307
+#: core/includes/redux/redux-config.php:1506
+msgid "Hover Border Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1319
+#: core/includes/redux/redux-config.php:1518
+msgid "Customize Sticky Button"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1326
+#: core/includes/redux/redux-config.php:1525
+msgid "Sticky Text Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1338
+#: core/includes/redux/redux-config.php:1537
+msgid "Sticky Hover Text Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1350
+#: core/includes/redux/redux-config.php:1549
+msgid "Sticky Background Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1362
+#: core/includes/redux/redux-config.php:1561
+msgid "Sticky Hover Background Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1374
+#: core/includes/redux/redux-config.php:1573
+msgid "Sticky Border Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1386
+#: core/includes/redux/redux-config.php:1585
+msgid "Sticky Hover Border Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1598
+#: core/includes/redux/redux-config.php:2851
+msgid "HTML Element 1 Editor"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1606
+#: core/includes/redux/redux-config.php:2858
+msgid "HTML Element 2 Editor"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1614
+#: core/includes/redux/redux-config.php:2866
+msgid "HTML Element 3 Editor"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1622
+#: core/includes/redux/redux-config.php:2874
+msgid "HTML Element 4 Editor"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1630
+#: core/includes/redux/redux-config.php:2882
+msgid "HTML Element 5 Editor"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1638
+#: core/includes/redux/redux-config.php:2890
+msgid "HTML Element 6 Editor"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1646
+msgid "HTML Element 7 Editor"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1654
+msgid "HTML Element 8 Editor"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1673
+#: core/includes/redux/redux-config.php:1706
+msgid "Background Icon"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1685
+msgid "Customize Sticky Icon"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1720
+msgid "Header Top Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1727
+msgid "Full Width Header"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1728
+#: core/includes/redux/redux-config.php:1840
+#: core/includes/redux/redux-config.php:1948
+msgid "Set header content in full width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1734
+#: core/includes/redux/redux-config.php:1846
+#: core/includes/redux/redux-config.php:1954
+msgid "Customize Max Width Container"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1735
+#: core/includes/redux/redux-config.php:1847
+#: core/includes/redux/redux-config.php:1955
+msgid "Set max width container"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1756
+msgid "Header Top Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1764
+msgid "Header Top Background Image"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1769
+msgid "Header Top Background"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1780
+msgid "Header Top Text Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1781
+msgid "Set Top header text color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1792
+msgid "Set Header Top Bottom Border"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1800
+msgid "Header Top Border Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1813
+msgid "Header Top Border Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1832
+msgid "Header Middle Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1839
+msgid "Full Width Middle Header"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1866
+msgid "Header Middle Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1874
+msgid "Header Middle Background Image"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1879
+msgid "Header Middle Background"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1890
+msgid "Header Middle Text Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1891
+msgid "Set Middle header text color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1902
+msgid "Set Header Middle Bottom Border"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1910
+msgid "Header Middle Border Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1921
+msgid "Header Middle Border Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1940
+msgid "Header Bottom Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1947
+msgid "Full Width Bottom Header"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1974
+msgid "Header Bottom Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1982
+msgid "Header Bottom Background Image"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1987
+msgid "Header Bottom Background"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1998
+msgid "Header Bottom Text Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:1999
+msgid "Set Bottom header text color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2010
+msgid "Set Header Bottom Border"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2018
+msgid "Header Bottom Border Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2029
+msgid "Header Bottom Border Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2048
+msgid "Top Left Column Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2055
+#: core/includes/redux/redux-config.php:2099
+#: core/includes/redux/redux-config.php:2143
+#: core/includes/redux/redux-config.php:2187
+#: core/includes/redux/redux-config.php:2231
+#: core/includes/redux/redux-config.php:2275
+#: core/includes/redux/redux-config.php:2319
+#: core/includes/redux/redux-config.php:2363
+#: core/includes/redux/redux-config.php:2407
+#: core/includes/redux/redux-config.php:2451
+#: core/includes/redux/redux-config.php:2495
+msgid "Horizontal Align"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2066
+#: core/includes/redux/redux-config.php:2110
+#: core/includes/redux/redux-config.php:2154
+#: core/includes/redux/redux-config.php:2198
+#: core/includes/redux/redux-config.php:2242
+#: core/includes/redux/redux-config.php:2286
+#: core/includes/redux/redux-config.php:2330
+#: core/includes/redux/redux-config.php:2374
+#: core/includes/redux/redux-config.php:2418
+#: core/includes/redux/redux-config.php:2462
+#: core/includes/redux/redux-config.php:2506
+msgid "Vertical Align"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2069
+#: core/includes/redux/redux-config.php:2113
+#: core/includes/redux/redux-config.php:2157
+#: core/includes/redux/redux-config.php:2201
+#: core/includes/redux/redux-config.php:2245
+#: core/includes/redux/redux-config.php:2289
+#: core/includes/redux/redux-config.php:2333
+#: core/includes/redux/redux-config.php:2377
+#: core/includes/redux/redux-config.php:2421
+#: core/includes/redux/redux-config.php:2465
+#: core/includes/redux/redux-config.php:2509
+msgid "Middle"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2077
+#: core/includes/redux/redux-config.php:2121
+#: core/includes/redux/redux-config.php:2165
+#: core/includes/redux/redux-config.php:2209
+#: core/includes/redux/redux-config.php:2253
+#: core/includes/redux/redux-config.php:2297
+#: core/includes/redux/redux-config.php:2341
+#: core/includes/redux/redux-config.php:2385
+#: core/includes/redux/redux-config.php:2429
+#: core/includes/redux/redux-config.php:2473
+#: core/includes/redux/redux-config.php:2517
+msgid "Display"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2079
+#: core/includes/redux/redux-config.php:2123
+#: core/includes/redux/redux-config.php:2167
+#: core/includes/redux/redux-config.php:2211
+#: core/includes/redux/redux-config.php:2255
+#: core/includes/redux/redux-config.php:2299
+#: core/includes/redux/redux-config.php:2343
+#: core/includes/redux/redux-config.php:2387
+#: core/includes/redux/redux-config.php:2431
+#: core/includes/redux/redux-config.php:2475
+#: core/includes/redux/redux-config.php:2519
+msgid "Normal"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2080
+#: core/includes/redux/redux-config.php:2124
+#: core/includes/redux/redux-config.php:2168
+#: core/includes/redux/redux-config.php:2212
+#: core/includes/redux/redux-config.php:2256
+#: core/includes/redux/redux-config.php:2300
+#: core/includes/redux/redux-config.php:2344
+#: core/includes/redux/redux-config.php:2388
+#: core/includes/redux/redux-config.php:2432
+#: core/includes/redux/redux-config.php:2476
+#: core/includes/redux/redux-config.php:2520
+msgid "Grow"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2092
+#: core/includes/redux/redux-config.php:2136
+msgid "Top Center Column Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2180
+msgid "Top Right Column Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2224
+msgid "Middle Left Column Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2268
+#: core/includes/redux/redux-config.php:2312
+msgid "Middle Center Column Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2356
+msgid "Middle Right Column Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2400
+msgid "Bottom Left Column Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2444
+msgid "Bottom Center Column Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2488
+msgid "Bottom Right Column Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2539
+msgid "Header Bottom Shadow"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2545
+msgid "Over content"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2546
+msgid "Set Header preset to display over content."
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2552
+msgid "Enable Lavalamp Marker"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2558
+msgid "Sub Menu Background"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2559
+msgid "Set sub menu background color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2570
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2571
+msgid "Set sub menu header text color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2578
+msgid "Sub Menu Bottom Border"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2586
+msgid "Sub Menu Border Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2595
+msgid "Sub Menu Border Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2607
+msgid "Mobile Header resolution breakpoint"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2627
+#: core/includes/redux/redux-config.php:2634
+msgid "Header Sticky"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2640
+msgid "Sticky Settings"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2647
+msgid "Header Sticky Template"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2669
+msgid "Always Visible"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2670
+msgid "Visible while scrolling upwards"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2686
+msgid "Header Mobile"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2693
+msgid "Custom Mobile Header "
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2699
+msgid "Mobile Header Background"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2711
+msgid "Mobile Header Text Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2719
+msgid "Mobile Sub Menu Background"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2731
+msgid "Mobile Sub Menu Overlay"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2743
+msgid "Mobile Sub Menu Text Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2753
+msgid "Mobile Height"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2766
+msgid "Mobile Over Content"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2772
+msgid "Mobile Sticky"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2778
+msgid "Mobile Sub Menu Position"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2788
+msgid "Mobile Header Order"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2789
+#: core/includes/redux/redux-config.php:2824
+msgid "Organize the layout of the mobile header"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2823
+msgid "Mobile Drawer Content"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2898
+msgid "Spacer 1 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2911
+msgid "Spacer 2 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2922
+msgid "Spacer 3 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2933
+msgid "Spacer 4 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2944
+msgid "Spacer 5 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2955
+msgid "Spacer 6 Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2976
+#: core/includes/redux/redux-config.php:3293
+#: core/includes/redux/redux-config.php:3564
+msgid "Settings"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2983
+msgid "Use Page Title?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:2998
+#: core/includes/redux/redux-config.php:4409
+#: core/includes/redux/redux-config.php:5600
+msgid "Use Background Image/Color?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3006
+#: core/includes/redux/redux-config.php:4417
+#: core/includes/redux/redux-config.php:4787
+#: core/includes/redux/redux-config.php:4796
+#: core/includes/redux/redux-config.php:5606
+msgid "Background Image/Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3073
+#: core/includes/redux/redux-config.php:3924
+msgid "Breadcrumbs"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3082
+#: core/includes/redux/redux-config.php:3785
+#: core/includes/redux/redux-config.php:3793
+#: core/includes/redux/redux-config.php:3801
+#: core/includes/redux/redux-config.php:3809
+#: core/includes/redux/redux-config.php:3824
+#: core/includes/redux/redux-config.php:3832
+#: core/includes/redux/redux-config.php:3840
+#: core/includes/redux/redux-config.php:3849
+#: core/includes/redux/redux-config.php:3858
+#: core/includes/redux/redux-config.php:3867
+#: core/includes/redux/redux-config.php:4068
+#: core/includes/redux/redux-config.php:4101
+#: core/includes/redux/redux-config.php:4109
+#: core/includes/redux/redux-config.php:4118
+#: core/includes/redux/redux-config.php:4127
+#: core/includes/redux/redux-config.php:4136
+#: core/includes/redux/redux-config.php:4145
+#: core/includes/redux/redux-config.php:4571
+msgid "Yes"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3083
+#: core/includes/redux/redux-config.php:3786
+#: core/includes/redux/redux-config.php:3794
+#: core/includes/redux/redux-config.php:3802
+#: core/includes/redux/redux-config.php:3810
+#: core/includes/redux/redux-config.php:3825
+#: core/includes/redux/redux-config.php:3833
+#: core/includes/redux/redux-config.php:3841
+#: core/includes/redux/redux-config.php:3850
+#: core/includes/redux/redux-config.php:3859
+#: core/includes/redux/redux-config.php:3868
+#: core/includes/redux/redux-config.php:4069
+#: core/includes/redux/redux-config.php:4102
+#: core/includes/redux/redux-config.php:4110
+#: core/includes/redux/redux-config.php:4119
+#: core/includes/redux/redux-config.php:4128
+#: core/includes/redux/redux-config.php:4137
+#: core/includes/redux/redux-config.php:4146
+#: core/includes/redux/redux-config.php:4572
+msgid "No"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3102
+msgid "Parallax Effect"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3108
+msgid "Parallax Speed"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3128
+#: core/includes/redux/redux-config.php:5133
+msgid "Typography"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3179
+msgid "Responsive"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3251
+msgid "Breadcrumbs On/Off"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3343
+#: core/includes/redux/redux-config.php:4896
+msgid "Page Select"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3369
+#: core/includes/redux/redux-config.php:3398
+msgid "Columns Layout"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3439
+msgid "Full Width On/Off"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3452
+msgid "Footer Styling"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3480
+msgid "Content Align"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3506
+msgid "Headings color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3517
+msgid "Content color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3538
+msgid "Border color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3641
+msgid "Blog"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3650
+#: core/includes/redux/redux-config.php:4231
+#: templates/header/section-page_title.php:207
+msgid "Archive"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3683
+#: core/includes/redux/redux-config.php:3968
+#: core/includes/redux/redux-config.php:4462
+msgid "Sidebar"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3689
+#: core/includes/redux/redux-config.php:4259
+#: core/includes/redux/redux-config.php:4468
+#: core/includes/redux/redux-config.php:5423
+msgid "Sidebar Layout"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3709
+#: core/includes/redux/redux-config.php:4279
+#: core/includes/redux/redux-config.php:4488
+msgid "Sidebar Template"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3716
+#: core/includes/redux/redux-config.php:4495
+msgid "Sidebar Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3727
+#: core/includes/redux/redux-config.php:4506
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3764
+#: core/includes/redux/redux-config.php:4292
+msgid "Columns in Archive"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3776
+#: core/includes/redux/redux-config.php:4084
+#: core/includes/redux/redux-config.php:4562
+msgid "Shares"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3784
+msgid "Hide Media?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3792
+msgid "Hide Title?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3800
+msgid "Hide Content?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3808
+msgid "Cut Off Text in Blog Listing"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3816
+msgid "Limit amount of characters to be displayed."
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3823
+msgid "Hide Read More Button?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3831
+#: core/includes/redux/redux-config.php:4100
+#: core/includes/redux/redux-config.php:4570
+msgid "Hide all post-meta?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3839
+#: core/includes/redux/redux-config.php:4108
+msgid "Hide post-meta author?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3848
+#: core/includes/redux/redux-config.php:4117
+msgid "Hide post-meta comments?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3857
+#: core/includes/redux/redux-config.php:4126
+msgid "Hide post-meta categories?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3866
+#: core/includes/redux/redux-config.php:4135
+msgid "Hide post-meta date?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3884
+#: core/includes/redux/redux-config.php:4354
+#: core/includes/redux/redux-config.php:4693
+#: core/includes/redux/redux-config.php:5538
+msgid "Single"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3891
+msgid "Default Post Layout"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3892
+msgid ""
+"Note: each Post can be additionally customized within its Meta boxes section."
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3909
+#: core/includes/redux/redux-config.php:4699
+#: core/includes/redux/redux-config.php:4771
+msgid "Page Title Text"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3917
+#: core/includes/redux/redux-config.php:4707
+#: core/includes/redux/redux-config.php:4780
+msgid "Custom Page Title Text"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3918
+msgid "Blog Post"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3954
+msgid "Note: this setting affects only the \"Overlay Image\" post layout."
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3974
+msgid "Blog Single Sidebar Layout"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:3994
+msgid "Blog Single Sidebar"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4002
+msgid "Blog Single Sidebar Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4013
+msgid "Blog Single Sticky Sidebar On?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4061
+msgid "Image To Replace On"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4067
+msgid "Apply Animation?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4076
+msgid "Views"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4092
+msgid "Author Info"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4144
+msgid "Hide tags?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4161
+#: core/includes/redux/redux-config.php:5741
+msgid "Related"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4182
+#: core/includes/redux/redux-config.php:4313
+msgid "Select Categories"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4210
+msgid "Display items in the carousel"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4222
+msgid "Portfolio"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4238
+msgid "Portfolio Slug"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4247
+msgid "Archive Page Title Background Image"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4304
+msgid "Filter"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4329
+msgid "Content"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4361
+#: core/includes/redux/redux-config.php:5545
+msgid "Post Title Settings"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4367
+#: core/includes/redux/redux-config.php:5551
+msgid "Post Title Text"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4375
+#: core/includes/redux/redux-config.php:5559
+msgid "Custom Post Title Text"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4543
+msgid "Content Alignment"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4578
+msgid "Post-meta author"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4587
+msgid "Post-meta comments"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4596
+msgid "Post-meta categories"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4605
+msgid "Post-meta date"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4639
+msgid "Related Projects"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4652
+msgid "Related Columns"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4676
+#: core/includes/redux/redux-config.php:4710
+msgid "Team"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4682
+msgid "Team Slug"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4714
+msgid "Single Page Title Background Image"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4735
+msgid "Page 404"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4741
+msgid "Main Background"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4757
+msgid "Page Title Section"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4843
+msgid "Header Section"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4851
+msgid "Footer Section"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4888
+msgid "Get Widgets"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:4889
+msgid "Get Pages"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5001
+msgid "Sidebars"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5009
+msgid "Add Sidebar"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5010
+msgid "Register Sidebars"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5016
+msgid "Sidebar Page Settings"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5097
+msgid "Color Options"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5104
+msgid "Primary Theme Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5112
+msgid "Secondary Theme Color"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5143
+msgid "Content Font"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5161
+msgid "Headings Font"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5178
+msgid "Additional Font"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5218
+msgid "Main Content"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5229
+msgid "Menu Font"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5244
+msgid "Submenu Font"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5291
+msgid "H1"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5301
+msgid "H2"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5311
+msgid "H3"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5321
+msgid "H4"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5331
+msgid "H5"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5341
+msgid "H6"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5373
+msgid "Headings"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5385
+#: templates/header/section-page_title.php:205
+msgid "Shop"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5395
+msgid "Catalog"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5405
+msgid "Catalog Page Title Background Image"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5443
+msgid "Shop Catalog Sidebar"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5450
+msgid "Shop Sidebar Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5492
+msgid "Shop Column"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5504
+msgid "Products per page"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5513
+msgid "Use Animation Shop?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5520
+msgid "Animation Style"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5522
+msgid "Fade In"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5523
+msgid "Slide Top"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5524
+msgid "Slide Bottom"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5525
+msgid "Slide Left"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5526
+msgid "Slide Right"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5527
+msgid "Zoom"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5576
+msgid "Breadcrumbs Display"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5585
+msgid "Title Breadcrumbs Alignment"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5646
+msgid "Enable Border Top?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5668
+msgid "Shop Single Sidebar Layout"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5688
+msgid "Shop Single Sidebar"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5695
+msgid "Shop Single Sidebar Width"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5706
+msgid "Shop Single Sticky Sidebar On?"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5713
+msgid "Shop Single Sidebar Side Gap"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5732
+msgid "Share On/Off"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5748
+msgid "Related products column"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5760
+msgid "Related products per page"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5782
+msgid "Cart Page Title Background Image"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5797
+msgid "Checkout"
+msgstr ""
+
+#: core/includes/redux/redux-config.php:5807
+msgid "Checkout Page Title Background Image"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:334 core/tgm/stl-tgm.php:66
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:335 core/tgm/stl-tgm.php:67
+msgid "Install Plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:337 core/tgm/stl-tgm.php:68
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:340 core/tgm/stl-tgm.php:69
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:342 core/tgm/stl-tgm.php:70
+#, php-format
+msgid "This theme requires the following plugins: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:346 core/tgm/stl-tgm.php:71
+#, php-format
+msgid "This theme recommends the following plugins: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:350 core/tgm/stl-tgm.php:76
+#, php-format
+msgid ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There are updates available for the following plugins: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:358 core/tgm/stl-tgm.php:73
+#, php-format
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:362 core/tgm/stl-tgm.php:74
+#, php-format
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:366 core/tgm/stl-tgm.php:78
+msgid "Begin installing plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin updating plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:374 core/tgm/stl-tgm.php:79
+msgid "Begin activating plugins"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:377 core/tgm/stl-tgm.php:80
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:378
+#: core/tgm/class-tgm-plugin-activation.php:897
+#: core/tgm/class-tgm-plugin-activation.php:2603
+#: core/tgm/class-tgm-plugin-activation.php:3650
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:379
+#: core/tgm/class-tgm-plugin-activation.php:3229 core/tgm/stl-tgm.php:81
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:380
+#: core/tgm/class-tgm-plugin-activation.php:3022
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgm/class-tgm-plugin-activation.php:382
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:384
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:386
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:387
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:388
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:389
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:592
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:593
+msgid "Update Required"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1004
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1004
+#: core/tgm/class-tgm-plugin-activation.php:1007
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1007
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:1191
+#: core/tgm/class-tgm-plugin-activation.php:3018
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2052
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2343
+msgid "Required"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2346
+msgid "Recommended"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2362
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2365
+msgid "External Source"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2368
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2385
+msgid "Not Installed"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2389
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2391
+msgid "Active"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2397
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2400
+msgid "Requires Update"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2403
+msgid "Update recommended"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2412
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2458
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2462
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2466
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2470
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2552
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2560
+msgid "Installed version:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2568
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2580
+msgid "Available version:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2603
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2617
+msgid "Plugin"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2618
+msgid "Source"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2619
+msgid "Type"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2624
+msgid "Status"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2673
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2678
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2684
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2754
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2787
+msgid "Install"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2793
+msgid "Update"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2796
+msgid "Activate"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2827
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2829
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2870
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2872
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:2978
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3004
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3228
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3568
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3571
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3573
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3577
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3579
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3579
+#: core/tgm/class-tgm-plugin-activation.php:3587
+msgid "Show Details"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3579
+#: core/tgm/class-tgm-plugin-activation.php:3587
+msgid "Hide Details"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3580
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3582
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3585
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3587
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3588
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/tgm/class-tgm-plugin-activation.php:3590
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/tgm/stl-tgm.php:14
+msgid "assurena Core"
+msgstr ""
+
+#: core/tgm/stl-tgm.php:23
+msgid "Elementor"
+msgstr ""
+
+#: core/tgm/stl-tgm.php:28
+msgid "Revolution Slider"
+msgstr ""
+
+#: core/tgm/stl-tgm.php:34
+msgid "WooCommerce"
+msgstr ""
+
+#: core/tgm/stl-tgm.php:38
+msgid "Contact Form 7"
+msgstr ""
+
+#: core/tgm/stl-tgm.php:42
+msgid "One click demo import"
+msgstr ""
+
+#: core/tgm/stl-tgm.php:72
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr ""
+
+#: core/tgm/stl-tgm.php:75
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr ""
+
+#: core/tgm/stl-tgm.php:77
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr ""
+
+#: core/tgm/stl-tgm.php:82
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: templates/breadcrumbs.php:36
+msgid "Home"
+msgstr ""
+
+#: templates/breadcrumbs.php:37
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: templates/breadcrumbs.php:38
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: templates/breadcrumbs.php:39
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: templates/breadcrumbs.php:40
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: templates/breadcrumbs.php:41
+msgid "Error 404"
+msgstr ""
+
+#: templates/breadcrumbs.php:42
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: templates/breadcrumbs.php:43
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: templates/header/section-header.php:1354
+msgid "Logout"
+msgstr ""
+
+#: templates/header/section-header.php:1435
+msgid "Click to open Shopping Cart"
+msgstr ""
+
+#: templates/header/section-page_title.php:175
+msgid " Tag"
+msgstr ""
+
+#: templates/header/section-page_title.php:179
+msgid "Author:"
+msgstr ""
+
+#: templates/header/section-page_title.php:184
+msgid "Error Page"
+msgstr ""
+
+#: templates/header/section-page_title.php:225
+msgid "No Posts"
+msgstr ""
+
+#: templates/post/post-navigation.php:49
+msgid "Next"
+msgstr ""
+
+#: templates/post/post-navigation.php:76
+msgid "Prev"
+msgstr ""
+
+#: templates/post/post-navigation.php:87
+msgid "Back to previous page"
+msgstr ""
+
+#: woocommerce/content-widget-reviews.php:46
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: woocommerce/product-searchform.php:18
+msgid "Search for:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:19
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:211
+msgid "Your review is awaiting approval"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:232
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:250
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:250
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:251
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:259
+msgid "Email"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:261
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:272
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:276
+msgid "Your rating"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:277
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:278
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:279
+msgid "Good"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:280
+msgid "Average"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:281
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:282
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:286
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/woocommerce-init.php:590
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: woocommerce/cart/cart.php:23 woocommerce/cart/cart.php:55
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:25 woocommerce/cart/cart.php:75
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:26 woocommerce/cart/cart.php:81
+#: woocommerce/global/quantity-input.php:24
+#: woocommerce/global/quantity-input.php:27
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27 woocommerce/cart/cart.php:103
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:70
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:115
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:140
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:39
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product/related.php:25
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:20
+msgid "You may also like&hellip;"
+msgstr ""
